@@ -1,1 +1,1 @@
-# assignment-6
+# slider-by-javascript
